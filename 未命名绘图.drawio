@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-08T14:33:13.310Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9Hk_lRWMwCiKbzwLmegn" version="21.1.5" type="github">
+<mxfile modified="2023-04-08T14:35:06.580Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7HnHS84ffoXn5sUBfpOJ" version="21.1.5" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="495" value="Clients" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="287.5" width="70" height="85" as="geometry" />
+          <mxGeometry x="40" y="279.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="496" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.laptop;part=1;" parent="495" vertex="1">
           <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="497" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#999999;align=left;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="248" width="150" height="44" as="geometry" />
+          <mxGeometry x="180" y="240" width="150" height="44" as="geometry" />
         </mxCell>
         <mxCell id="498" value="Frontend&#xa;Platform Services" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.frontend_platform_services;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#000000;fontSize=12;" parent="497" vertex="1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="499" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#999999;align=left;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="363" width="150" height="44" as="geometry" />
+          <mxGeometry x="180" y="355" width="150" height="44" as="geometry" />
         </mxCell>
         <mxCell id="500" value="Dedicated&#xa;Game Server" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.dedicated_game_server;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#000000;fontSize=12;" parent="499" vertex="1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -86,6 +86,12 @@
         </mxCell>
         <mxCell id="Q2K9-2T1gwmYqB9UNPAX-517" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.script_file" vertex="1" parent="1">
           <mxGeometry x="700" y="190" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2K9-2T1gwmYqB9UNPAX-521" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=0;labelBackgroundColor=none;strokeColor=#4284F3;strokeWidth=2;fontFamily=Helvetica;fontSize=10;fontColor=#999999;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;startSize=4;endSize=4;" edge="1" parent="1" source="Q2K9-2T1gwmYqB9UNPAX-519" target="Q2K9-2T1gwmYqB9UNPAX-517">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2K9-2T1gwmYqB9UNPAX-519" value="yunchuang" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
